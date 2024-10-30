@@ -88,6 +88,10 @@ consider the [Save Page WE][] add-on.
 * [Chromium](https://chrome.google.com/webstore/detail/archiveror/cpjdnekhgjdecpmjglkcegchhiijadpb)
 * [Firefox](https://addons.mozilla.org/firefox/addon/archiveror/)
 
+## See also
+
+* https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives
+
 ## Credits
 
 * The [floppy disk icon][floppy] is by the
